@@ -1,0 +1,13 @@
+app/env/
+env/
+
+build/
+*.so
+*.a
+
+dependencies/ppf3/ppf/
+dependencies/ppf/nanobind/
+
+*.pt
+*.task
+*.onnx
